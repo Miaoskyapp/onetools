@@ -89,3 +89,4 @@ typings/
 #.vite/
 # Electron-Forge
 out/
+dist/
