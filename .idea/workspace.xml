@@ -4,9 +4,87 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9f5207d-00cb-4929-9afc-7c842c8f0326" name="更改" comment="1st">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/build.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build.yml" afterDir="false" />
+    <list default="true" id="b9f5207d-00cb-4929-9afc-7c842c8f0326" name="更改" comment="v1.0.1">
+      <change afterPath="$PROJECT_DIR$/dist/builder-debug.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/builder-effective-config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/LICENSE.electron.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/LICENSES.chromium.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/chrome_100_percent.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/chrome_200_percent.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/d3dcompiler_47.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/ffmpeg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/icudtl.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/libEGL.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/libGLESv2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/af.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/am.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/ar.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/bg.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/bn.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/ca.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/cs.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/da.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/de.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/el.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/en-GB.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/en-US.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/es-419.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/es.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/et.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/fa.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/fi.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/fil.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/fr.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/gu.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/he.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/hi.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/hr.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/hu.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/id.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/it.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/ja.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/kn.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/ko.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/lt.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/lv.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/ml.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/mr.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/ms.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/nb.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/nl.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/pl.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/pt-BR.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/pt-PT.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/ro.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/ru.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/sk.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/sl.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/sr.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/sv.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/sw.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/ta.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/te.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/th.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/tr.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/uk.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/ur.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/vi.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/zh-CN.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/locales/zh-TW.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/onetools.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/resources.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/resources/app-update.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/resources/app.asar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/snapshot_blob.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/v8_context_snapshot.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/vk_swiftshader.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/vk_swiftshader_icd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/win-unpacked/vulkan-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +123,19 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2kyP17o2cSCmIVRr4mRQ7eNfCc2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/code/onetools",
@@ -81,7 +164,7 @@
       <option name="presentableId" value="Default" />
       <updated>1724252624443</updated>
       <workItem from="1724252625488" duration="3426000" />
-      <workItem from="1724283039559" duration="376000" />
+      <workItem from="1724283039559" duration="1685000" />
     </task>
     <task id="LOCAL-00001" summary="1st">
       <option name="closed" value="true" />
@@ -91,7 +174,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724283117047</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1st">
+      <option name="closed" value="true" />
+      <created>1724283455848</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724283455848</updated>
+    </task>
+    <task id="LOCAL-00003" summary="v1.0.1">
+      <option name="closed" value="true" />
+      <created>1724283546924</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724283546924</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,11 +220,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="1st" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st" />
+    <MESSAGE value="v1.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.0.1" />
   </component>
 </project>
